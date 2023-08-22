@@ -1,0 +1,10 @@
+path: /content
+train: training/images
+val: validation/images
+  
+names:
+  0: title
+  1: text
+  2: figure
+  3: table
+  4: list
