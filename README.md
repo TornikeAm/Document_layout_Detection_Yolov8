@@ -16,9 +16,11 @@ Document layout detection is a crucial task in fields like OCR (Optical Characte
 
 ## Results
 
-Here are results from Different Yolov8 Models: Yolov8 Nano, Small and Medium, Respectively.
+Here are the results from Different Yolov8 Models: Yolov8 Nano, Small, and Medium, Respectively.
 ![Result 1](/images/yolov8Nano3.png)
+
 ![Result 2](/images/yolov8Small.png)
+
 ![Result 3](/images/yolov8Medium.png)
 
 ## Acknowledgements
